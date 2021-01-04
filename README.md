@@ -33,3 +33,10 @@ Stability hinges on two factors.
 For example, if an individual wants to trade 1000 EXIT for 1000 DAI on [Uniswap](https://uniswap.exchange/), but there is only 500 DAI in the exchange, the user can either trade 500 EXIT for 500 DAI, or trade any amount over 500 for the same 500 DAI, effectively reducing the value. This issue occurs now with any stable trading pair when liquidity limits are reached.
 {% endhint %}
 
+{% hint style="success" %}
+For more information on synthetic, stable commodities which informed this new model, please see:
+
+* [https://www.basis.io/basis\_whitepaper\_en.pdf](https://www.basis.io/basis_whitepaper_en.pdf)
+* [https://www.ampleforth.org/paper/](https://www.ampleforth.org/paper/)
+{% endhint %}
+
